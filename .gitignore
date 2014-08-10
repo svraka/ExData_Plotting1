@@ -1,5 +1,6 @@
 *.png
 *.txt
+*.Rda
 .Rproj.user
 .Rhistory
 .RData
